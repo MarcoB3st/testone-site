@@ -1,3 +1,14 @@
 body {
     font-family: sans-serif;
 }
+.buttonInvite {
+    text-align: left;
+    border-radius: 10px;
+    color: white;
+    border: none;
+    background: cornflowerblue;
+    font-size: 20px;
+}
+.buttonInvite:active {
+    background: blue;
+}
